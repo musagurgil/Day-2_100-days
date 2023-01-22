@@ -1,0 +1,17 @@
+print ("2.gun deneme")
+
+print ()
+my_name = input ("What's your name?: ")
+my_food = input ("What's your favourite food:")
+my_music = input ("What's yout favourite music?:")
+my_live = input("Where do you live?:")
+
+print ()
+print ("You are")
+print (my_name)
+print ("You're probably hungry for")
+print (my_food)
+print ("and you're definitely getting your groove on to")
+print (my_music)
+print ("living in the amazing")
+print (my_live)
